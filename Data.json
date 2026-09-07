@@ -1,0 +1,118 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Amit",
+            "age": 22,
+            "city": "Delhi",
+            "friends": [2, 3, 5],
+            "liked_pages": [101, 103]
+        },
+        {
+            "id": 2,
+            "name": "Priya",
+            "age": 21,
+            "city": "Mumbai",
+            "friends": [1, 4, 6],
+            "liked_pages": [102, 104]
+        },
+        {
+            "id": 3,
+            "name": "Rahul",
+            "age": 23,
+            "city": "Bangalore",
+            "friends": [1, 5, 7],
+            "liked_pages": [101, 103, 105]
+        },
+        {
+            "id": 4,
+            "name": "Sara",
+            "age": 22,
+            "city": "Pune",
+            "friends": [2, 6, 8],
+            "liked_pages": [104, 106]
+        },
+        {
+            "id": 5,
+            "name": "Karan",
+            "age": 24,
+            "city": "Delhi",
+            "friends": [1, 3, 7],
+            "liked_pages": [101, 105]
+        },
+        {
+            "id": 6,
+            "name": "Neha",
+            "age": 20,
+            "city": "Hyderabad",
+            "friends": [2, 4, 8],
+            "liked_pages": [102, 106]
+        },
+        {
+            "id": 7,
+            "name": "Rohan",
+            "age": 25,
+            "city": "Chandigarh",
+            "friends": [3, 5, 8],
+            "liked_pages": [103, 105, 107]
+        },
+        {
+            "id": 8,
+            "name": "Anjali",
+            "age": 23,
+            "city": "Jaipur",
+            "friends": [4, 6, 7],
+            "liked_pages": [104, 106, 108]
+        },
+        {
+            "id": 9,
+            "name": "Vikas",
+            "age": 26,
+            "city": "Lucknow",
+            "friends": [1, 4, 7],
+            "liked_pages": [101, 107]
+        },
+        {
+            "id": 10,
+            "name": "Pooja",
+            "age": 21,
+            "city": "Kolkata",
+            "friends": [2, 5, 9],
+            "liked_pages": [102, 108]
+        }
+    ],
+    "pages": [
+        {
+            "id": 101,
+            "name": "Python Developers"
+        },
+        {
+            "id": 102,
+            "name": "Data Science Enthusiasts"
+        },
+        {
+            "id": 103,
+            "name": "AI & ML Community"
+        },
+        {
+            "id": 104,
+            "name": "Web Dev Hub"
+        },
+        {
+            "id": 105,
+            "name": "Machine Learning Beginners"
+        },
+        {
+            "id": 106,
+            "name": "Cloud Computing Community"
+        },
+        {
+            "id": 107,
+            "name": "Cyber Security World"
+        },
+        {
+            "id": 108,
+            "name": "Technology News"
+        }
+    ]
+}

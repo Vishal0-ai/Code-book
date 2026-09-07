@@ -1,0 +1,168 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Amit",
+            "friends": [
+                2,
+                3
+            ],
+            "liked_pages": [
+                101,
+                102
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Priya",
+            "friends": [
+                1,
+                4
+            ],
+            "liked_pages": [
+                102
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Sara",
+            "friends": [
+                2,
+                6
+            ],
+            "liked_pages": [
+                104
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Rahul",
+            "friends": [
+                1
+            ],
+            "liked_pages": [
+                105
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Neha",
+            "friends": [
+                2,
+                3
+            ],
+            "liked_pages": [
+                102,
+                999
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Amit",
+            "friends": [
+                1
+            ],
+            "liked_pages": [
+                101
+            ]
+        },
+        {
+            "id": "9",
+            "name": "Karan",
+            "friends": [
+                1,
+                2
+            ],
+            "liked_pages": [
+                106
+            ]
+        },
+        {
+            "id": 10,
+            "name": "  Riya  ",
+            "friends": [
+                3
+            ],
+            "liked_pages": [
+                103,
+                104
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Vikas",
+            "friends": [],
+            "liked_pages": [
+                101
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Pooja",
+            "friends": [
+                1,
+                2
+            ],
+            "liked_pages": null
+        },
+        {
+            "id": 13,
+            "name": "Ankit",
+            "friends": [
+                1,
+                "2"
+            ],
+            "liked_pages": [
+                102
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Sneha",
+            "friends": [
+                14
+            ],
+            "liked_pages": [
+                107
+            ]
+        }
+    ],
+    "pages": [
+        {
+            "id": 101,
+            "name": "Python Developers"
+        },
+        {
+            "id": 102,
+            "name": "Data Science Enthusiasts"
+        },
+        {
+            "id": 103,
+            "name": "AI & ML Community"
+        },
+        {
+            "id": 104,
+            "name": "Web Development"
+        },
+        {
+            "id": 107,
+            "name": "Machine Learning Community"
+        },
+        {
+            "id": 108,
+            "name": "Python Developers"
+        },
+        {
+            "id": "109",
+            "name": "Cloud Computing"
+        },
+        {
+            "id": 110,
+            "name": "  Cyber Security  "
+        },
+        {
+            "id": 111,
+            "name": "Data Science Enthusiasts"
+        }
+    ]
+}
